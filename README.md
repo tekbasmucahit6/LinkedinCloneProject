@@ -1,8 +1,10 @@
-# React + Vite
+# Linkedin Clone Proje
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React , React , Tailwind CSS , react-router-dom kullanılarak geliştirilmiş bir uygulamadır. Amaç, [projenin ne yaptığı, çözüm sunduğu şey] sağlamaktır.
 
-Currently, two official plugins are available:
+## 🛠️ Kullanılan Teknolojiler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- TypeScript
+- Tailwind CSS
+- react-router-dom
